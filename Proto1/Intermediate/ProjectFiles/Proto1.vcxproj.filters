@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Proto1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9414873D-9D26-45BD-BE7F-051F6484CC3E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Proto1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Proto1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F5F97926-F690-47D2-B1E7-1C84B5A9CAB5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Proto1">
+      <UniqueIdentifier>{897FEF9A-BDCC-4568-B8C5-D1CB39E9F782}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Proto1\Proto1.Build.cs">
+      <Filter>Source\Proto1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Proto1\Proto1.cpp">
+      <Filter>Source\Proto1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Proto1\Proto1.h">
+      <Filter>Source\Proto1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Proto1\Proto1GameModeBase.cpp">
+      <Filter>Source\Proto1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Proto1\Proto1GameModeBase.h">
+      <Filter>Source\Proto1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

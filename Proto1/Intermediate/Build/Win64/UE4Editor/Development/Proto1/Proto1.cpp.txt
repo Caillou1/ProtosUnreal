@@ -1,0 +1,2 @@
+C:\Users\Pierre\Documents\Unreal Projects\Proto1\Intermediate\Build\Win64\UE4Editor\Development\Proto1\Definitions.Proto1.h
+c:\users\pierre\documents\unreal projects\proto1\source\proto1\Proto1.h
