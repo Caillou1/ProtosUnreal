@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Pierre\\Documents\\Unreal Projects\\ProtosUnreal\\FloorIsLiterallyLava\\Source\\FloorIsLiterallyLava\\FloorIsLiterallyLava.Build.cs",
+		"C:\\Users\\Pierre\\Documents\\Unreal Projects\\ProtosUnreal\\FloorIsLiterallyLava\\Source\\FloorIsLiterallyLava.Target.cs",
+		"C:\\Users\\Pierre\\Documents\\Unreal Projects\\ProtosUnreal\\FloorIsLiterallyLava\\Source\\FloorIsLiterallyLavaEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.2"
+}

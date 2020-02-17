@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FloorIsLiterallyLava-1594.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\FloorIsLiterallyLavaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\BasePawn.cpp.obj"
+"C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\FloorIsLiterallyLava.cpp.obj"
+"C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\FloorIsLiterallyLavaGameModeBase.cpp.obj"
+"C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\BasePawn.gen.cpp.obj"
+"C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\FloorIsLiterallyLava.init.gen.cpp.obj"
+"C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\FloorIsLiterallyLavaGameModeBase.gen.cpp.obj"
+"C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\Default.rc2.res"
+/OUT:"C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\UE4Editor-FloorIsLiterallyLava-1594.lib"
+/INCLUDE:IMPLEMENT_MODULE_FloorIsLiterallyLava

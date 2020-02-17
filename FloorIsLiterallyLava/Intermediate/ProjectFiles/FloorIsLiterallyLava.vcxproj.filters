@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FloorIsLiterallyLava.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AF1DEDB5-88BC-468B-A2D5-A2D12CE878AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FloorIsLiterallyLava.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FloorIsLiterallyLavaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{92CCEF30-11D4-473A-B17B-D2AD66C7562A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FloorIsLiterallyLava">
+      <UniqueIdentifier>{77CD853B-20C1-41A3-9A39-04F8E570E254}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FloorIsLiterallyLava\FloorIsLiterallyLava.Build.cs">
+      <Filter>Source\FloorIsLiterallyLava</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FloorIsLiterallyLava\FloorIsLiterallyLava.cpp">
+      <Filter>Source\FloorIsLiterallyLava</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FloorIsLiterallyLava\FloorIsLiterallyLava.h">
+      <Filter>Source\FloorIsLiterallyLava</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FloorIsLiterallyLava\FloorIsLiterallyLavaGameModeBase.cpp">
+      <Filter>Source\FloorIsLiterallyLava</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FloorIsLiterallyLava\FloorIsLiterallyLavaGameModeBase.h">
+      <Filter>Source\FloorIsLiterallyLava</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\FloorIsLiterallyLava\Gameplay">
+      <UniqueIdentifier>{3502cee0-fdc0-4d7e-b0d4-ed97d7612dfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\FloorIsLiterallyLava\Gameplay\3C">
+      <UniqueIdentifier>{188ab406-10d0-443e-9480-fa1f1bb09ad8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\FloorIsLiterallyLava\Gameplay\3C\Pawn">
+      <UniqueIdentifier>{bb028e87-7651-4e99-b6c4-854bfb1a5e51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\FloorIsLiterallyLava\Gameplay\3C\Pawn\BasePawn.h">
+      <Filter>Source\FloorIsLiterallyLava\Gameplay\3C\Pawn</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\FloorIsLiterallyLava\Gameplay\3C\Pawn\BasePawn.cpp">
+      <Filter>Source\FloorIsLiterallyLava\Gameplay\3C\Pawn</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

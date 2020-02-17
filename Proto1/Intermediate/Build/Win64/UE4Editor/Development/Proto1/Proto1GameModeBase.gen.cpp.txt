@@ -1,9 +1,0 @@
-C:\Users\Pierre\Documents\Unreal Projects\Proto1\Intermediate\Build\Win64\UE4Editor\Development\Proto1\Definitions.Proto1.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Pierre\Documents\Unreal Projects\Proto1\Source\Proto1/Proto1GameModeBase.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-c:\users\pierre\documents\unreal projects\proto1\intermediate\build\win64\ue4editor\inc\proto1\Proto1GameModeBase.generated.h

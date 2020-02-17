@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FloorIsLiterallyLava",
+			"Path": "C:\\Users\\Pierre\\Documents\\Unreal Projects\\ProtosUnreal\\FloorIsLiterallyLava\\Source\\FloorIsLiterallyLava.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FloorIsLiterallyLavaEditor",
+			"Path": "C:\\Users\\Pierre\\Documents\\Unreal Projects\\ProtosUnreal\\FloorIsLiterallyLava\\Source\\FloorIsLiterallyLavaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

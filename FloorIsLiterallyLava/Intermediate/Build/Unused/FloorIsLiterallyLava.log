@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal).
+  Parsing headers for FloorIsLiterallyLavaEditor
+    Running UnrealHeaderTool "C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\FloorIsLiterallyLava.uproject" "C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\FloorIsLiterallyLavaEditor\Development\FloorIsLiterallyLavaEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for FloorIsLiterallyLavaEditor in 4,9853444 seconds
+  Building FloorIsLiterallyLavaEditor...
+  Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] BasePawn.cpp
+    [2/4] UE4Editor-FloorIsLiterallyLava-0022.lib
+       Cr�ation de la biblioth�que C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\UE4Editor-FloorIsLiterallyLava-0022.lib et de l'objet C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\UE4Editor-FloorIsLiterallyLava-0022.exp
+    [3/4] UE4Editor-FloorIsLiterallyLava-0022.dll
+       Cr�ation de la biblioth�que C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\UE4Editor-FloorIsLiterallyLava-0022.suppressed.lib et de l'objet C:\Users\Pierre\Documents\Unreal Projects\ProtosUnreal\FloorIsLiterallyLava\Intermediate\Build\Win64\UE4Editor\Development\FloorIsLiterallyLava\UE4Editor-FloorIsLiterallyLava-0022.suppressed.exp
+    [4/4] FloorIsLiterallyLavaEditor.target
+  Total time in Parallel executor: 1,26 seconds
+  Total execution time: 6,85 seconds
